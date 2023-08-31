@@ -1,4 +1,4 @@
-# Workout React App Tutorial
+# Workout React App 
 
 ## Final Project Demo:
 
